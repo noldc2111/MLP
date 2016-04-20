@@ -1,4 +1,4 @@
-# MLP
+# Multilayer Perceptron
 Multilayer Perceptron for Machine Learning Course CS545
 
 Assignment: Implement a two-layer neural network to perform leter recognition on the UCI machine-learning dataset(http://archive.ics.uci.edu/ml/datasets/Letter+Recognition).
